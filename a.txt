@@ -1,3 +1,3 @@
-change in the file to test commit
+new change in the file to test commit
 
 Sample git text file
